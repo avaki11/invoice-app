@@ -1,3 +1,8 @@
+# amplify
+node_modules
+.amplify
+amplify_outputs*
+amplifyconfiguration*
 # Logs
 logs
 *.log
@@ -22,10 +27,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-
-# amplify
-node_modules
-.amplify
-amplify_outputs*
-amplifyconfiguration*
